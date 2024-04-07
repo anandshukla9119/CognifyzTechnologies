@@ -1,0 +1,16 @@
+body {
+    background-image: url(luis-i-bridge-8201941_640.jpg);
+    background-size: cover;
+}
+
+#myButton {
+    padding: 10px 20px;
+    background-color: #1eb70a;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+#myButton.clicked {
+    background-color: #ef0f0f;
+}

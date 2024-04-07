@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+form {
+    height: 200px;
+    width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f1baba;
+    border: 2px solid #000;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    background-color: aqua;
+}
+
+input[type="submit"] {
+    padding: 10px 20px;
+    background-color: #0a9d16;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
